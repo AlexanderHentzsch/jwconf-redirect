@@ -1,4 +1,4 @@
-#Automatische Weiterleitung für JWConf
+# Automatische Weiterleitung für JWConf
 
 JWConf bietet die Möglichkeit eine Autologin-Seite aufzurufen und diese dann in den Favoriten abzuspeichern.
 Sehr hilfreich für Fehrnsehr. Allerdings muss nach Aufruf dieses Links manuell weiter navigiert werden.
